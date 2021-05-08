@@ -3,10 +3,10 @@ This is a code base for deploying API's to Heroku Infrastructure using CI/CD (Co
 
 Steps involed:
 
-Create the repository in github
-Clone the repository in local environment using github desktop
-Create Heroku Account (https://dashboard.heroku.com/)
-create app in heroku (use any available name)
-Create the app.py file (having the base flask code)
-create the ProcFile and requirments.txt file
-push these file to the git cloud (in main branch)
+1. Create the repository in github
+2. Clone the repository in local environment using github desktop
+3. Create Heroku Account (https://dashboard.heroku.com/)
+4. create app in heroku (use any available name)
+5. Create the app.py file (having the base flask code)
+6. create the ProcFile and requirments.txt file
+7. Push these file to the git cloud (in main branch)
